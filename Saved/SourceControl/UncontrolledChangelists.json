@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/IMC_Move_Thumb.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/IA_Move_Thumb.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/Characters/MannequinsXR/B_MannequinsXR.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/VRTemplate/Input/PMI_VRTemplate.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/VRTemplate/Input/Actions/IA_Move.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/Test_keyboard.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/Keyboard.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/Assets/OrshankaBuilding.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/IA.uasset",
+				"C:/Users/ResDT/Downloads/Unreal projects/Escape_from_MAI/Content/IA_Input_action.uasset"
+			]
+		}
+	]
+}
